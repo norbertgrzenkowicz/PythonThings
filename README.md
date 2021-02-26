@@ -1,6 +1,12 @@
 # Demo
 
-Repo zawiera przydatne metody numeryczne napisane w pythonie z wykorzystaniem numpy oraz plt + sudoku solver.
+Repo zawiera małe projekty, przydatne metody numeryczne napisane w pythonie.
+
+SudokuSolver.py:
+  Mały programik wykorzystujący backtracking, do rozwiązywania sudoku
+  
+Pathfinder_source_code.py:
+  Wykorzystując A* alrgorytm i PyGame jako GUI plik zawiera "gierkę" prezentującą szukanie najkrótszej drogi z jednego punktu do drugiego.
 
 Macierze_1.py:
   a) Rozwiązywanie układu równań
